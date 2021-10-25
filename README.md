@@ -25,3 +25,13 @@ I interpreted the user’s needs as best I could the clients’ needs were simpl
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I would spend more time on understanding the technologies the code interacts with. As mentioned earlier Rest Application Programming Interface was used but I would like more time to work with its capabilities.
+
+
+How can I ensure that my code, program, or software is functional and secure?
+By using several testing techniques I can ensure that the code, program, or software is functional and secure. In this cource we specifically covered JUnit tests which can ensure an applications requirements have been met. Having high test coverage of an application is a good indicator that code will function as intended.
+
+How do I interpret user needs and incorporate them into a program?
+By using agile methodsI can interpret a users needs and inforporate them into a program. I turn requirements into test cases that when completed add value to an application. the test cases also allow us to prioritize and ensure functionality.
+
+How do I approach designing software?
+Breaking the problem into parts I can simplify or define what is being asked. After defining the problems to be solved I can then devide and conquer 
